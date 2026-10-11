@@ -5,14 +5,11 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/modules" />
-            <option value="$PROJECT_DIR$/modules/practise-4" />
-            <option value="$PROJECT_DIR$/modules/practise-5" />
-            <option value="$PROJECT_DIR$/modules/practise-6" />
+            <option value="$PROJECT_DIR$/modules/first_homework" />
           </set>
         </option>
       </GradleProjectSettings>
